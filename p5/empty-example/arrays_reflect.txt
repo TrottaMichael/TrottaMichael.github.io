@@ -1,0 +1,12 @@
+Michael Trotta
+Ms. Tanzosh
+Computer Science
+4.18.18
+
+            The method of using arrays taught in this program to create multiple shapes is very useful because it avoids the
+        repetition that just typing things over and over again because it teaches nothing and just wastes time by repeatedly going
+        over and over while just memorizing the way that you make that exact circle. My array takes the creation of a single circle
+        that it repeats all over the canvas, meaning that the circles are all identical in appearance with the execption of their
+        position on the canvas and makes them move around by randomly moving them in both the x and y value by a random value
+        between two and negative two. I was unclear on how objects worked so I would say my aha moment was when I learned how they
+        worked, because it was integral to the entire project, which made it very important.

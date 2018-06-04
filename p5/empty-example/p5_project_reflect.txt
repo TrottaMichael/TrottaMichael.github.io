@@ -1,0 +1,16 @@
+Michael Trotta
+Ms. Tanzosh
+Computer Science
+5.2.18
+
+
+        We learned alot about p5 during this project and this was a good project as it made something fun that we could use and gave
+    us a sense of accomplishment by having us create something substitantive and enjoyable. I think working with project partners is
+    a good way to run this project because the effect of having two minds instead of 1 is tremendous, and through switching, allows
+    the work to be evenly split between two people and ensures fairness. We hed two issues in developement which where the ideas of
+    how to get the ball moving diagonally instead of straight forward, we did this by making the xvelocity change so that the ball
+    would move to the side and up so that is would be moving in a diagonal direction. The other was when we didnt know how to get
+    the ball to make the brick dissapear. We also thought that this algorythim was the most difficult to make. We made the balls x
+    and y velocities set to zero when it made contact with the box so that it would stop and the box had its borders deleted so that
+    it could blend in when we changed it color to give the appearence of it dissappearing. Then the message, "You Win!" would be
+    displayed, congragulating the player.
